@@ -44,6 +44,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-
-## 📊 GitHub Contributions
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=youhyun0730&show_icons=true&count_private=true)
